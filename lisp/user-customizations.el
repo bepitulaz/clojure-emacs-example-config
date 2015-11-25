@@ -1,4 +1,5 @@
-;; a line inside my user-customizations.el in .emacs.d
+;; User customization from Asep (bepitulaz)
+;; You can change all these settings as you want.
 
 (require-package 'rainbow-delimiters)
 
